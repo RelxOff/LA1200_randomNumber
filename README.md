@@ -1,1 +1,1 @@
-# LA1200_rnadomNumber
+# LA1200_randomNumber
